@@ -1,0 +1,28 @@
+.container {
+    padding: 4rem;
+    width: 40rem;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .input-container{
+    text-align: center;
+  }
+  .input-container button {
+    width: 50%;
+    background-color: darkcyan;
+    border: none;
+    color: white;
+  }
+  
+  .input-container input {
+    
+    width: 30%;
+  }
+  .true-value{
+    text-align: center;
+    font-size: 10rem;
+  }
